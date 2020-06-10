@@ -1,26 +1,11 @@
 <?php
 /*
-Plugin Name: Your Plugin Name
-Plugin URI: https://github.com/your_name/your_plugin
-Description: One line description of your plugin
+Plugin Name: Example Plugin
+Plugin URI: https://github.com/ozh/example-plugin
+Description: This plugin does nothing but is installable with Composer
 Version: 1.0
-Author: Your Name
-Author URI: https://your-site-if-any/
+Author: Ozh
+Author URI: https://ozh.org/
 */
 
-// No direct call
-if( !defined( 'YOURLS_ABSPATH' ) ) die();
-
-/*
-
- Your code goes here.
- 
- Suggested read:
- https://github.com/YOURLS/YOURLS/wiki/Plugins
- https://github.com/YOURLS/YOURLS/wiki/How-to-make-Plugins
- https://github.com/YOURLS/YOURLS/wiki/Coding-Standards
- https://github.com/YOURLS/YOURLS/wiki#for-developpers
- 
- Have fun!
- 
-*/
+// This plugin does nothing, just as advertised
