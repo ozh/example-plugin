@@ -15,7 +15,6 @@
     ],
     "license":"WTFPL",
     "require": {
-        "php": ">=7.1",
-        "yourls/composer-installer": "*"
+        "php": ">=7.1"
     }
 }
