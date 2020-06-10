@@ -1,0 +1,21 @@
+{
+    "name": "ozh/example-plugin",
+    "description": "Example of a YOURLS plugin installable with Composer",
+    "keywords": [
+        "yourls",
+        "plugin",
+        "example"
+    ],
+    "type": "yourls-plugin",
+    "authors": [
+        {
+            "name": "Ozh",
+            "email": "ozh@ozh.org"
+        }
+    ],
+    "license":"WTFPL",
+    "require": {
+        "php": ">=7.1",
+        "yourls/composer-installer": "*"
+    }
+}
