@@ -1,26 +1,17 @@
-# <Plugin Name>
+# Example Plugin
 
-:bulb: Plugin short description: what it does
-
-Require [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
+Example of a YOURLS plugin installable with Composer
 
 ## Usage
 
-:bulb: This is a great place for showing a few usage examples!
-
-:camera: If applicable, a screenshot of the admin interface or anything relevant is super helpful
+It does nothing.
 
 ## Installation
 
-:bulb: This is a great place for showing how to install the package. The common way is as below:
+In your YOURLS root: `composer require ozh/example-plugin`
 
-1. In `/user/plugins`, create a new folder named `<here: your plugin folder name>`.
-2. Drop these files in that directory.
-3. Go to the Plugins administration page (eg. `http://sho.rt/admin/plugins.php`) and activate the plugin.
-4. Have fun!
+(Or, of course, the regular way)
 
 ## License
 
-:bulb: The license might be updated with your terms.
-
-This package is licensed under the [MIT License](LICENSE).
+WTFPL
